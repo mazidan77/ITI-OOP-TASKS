@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "convert ascii code to character/1.0.0": {
+        "runtime": {
+          "convert ascii code to character.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "convert ascii code to character/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

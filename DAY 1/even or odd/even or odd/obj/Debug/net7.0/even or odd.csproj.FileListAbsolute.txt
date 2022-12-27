@@ -1,0 +1,15 @@
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\bin\Debug\net7.0\even or odd.exe
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\bin\Debug\net7.0\even or odd.deps.json
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\bin\Debug\net7.0\even or odd.runtimeconfig.json
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\bin\Debug\net7.0\even or odd.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\bin\Debug\net7.0\even or odd.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\obj\Debug\net7.0\even or odd.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\obj\Debug\net7.0\even or odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\obj\Debug\net7.0\even or odd.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\obj\Debug\net7.0\even or odd.AssemblyInfo.cs
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\obj\Debug\net7.0\even or odd.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\obj\Debug\net7.0\even or odd.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\obj\Debug\net7.0\refint\even or odd.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\obj\Debug\net7.0\even or odd.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\obj\Debug\net7.0\even or odd.genruntimeconfig.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\even or odd\even or odd\obj\Debug\net7.0\ref\even or odd.dll

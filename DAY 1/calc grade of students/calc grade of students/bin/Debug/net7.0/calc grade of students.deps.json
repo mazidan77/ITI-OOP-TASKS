@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "calc grade of students/1.0.0": {
+        "runtime": {
+          "calc grade of students.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calc grade of students/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\obj\Debug\net7.0\print  sum,subtraction,multiplication.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\obj\Debug\net7.0\print  sum,subtraction,multiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\obj\Debug\net7.0\print  sum,subtraction,multiplication.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\obj\Debug\net7.0\print  sum,subtraction,multiplication.AssemblyInfo.cs
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\obj\Debug\net7.0\print  sum,subtraction,multiplication.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\bin\Debug\net7.0\print  sum,subtraction,multiplication.exe
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\bin\Debug\net7.0\print  sum,subtraction,multiplication.deps.json
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\bin\Debug\net7.0\print  sum,subtraction,multiplication.runtimeconfig.json
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\bin\Debug\net7.0\print  sum,subtraction,multiplication.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\bin\Debug\net7.0\print  sum,subtraction,multiplication.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\obj\Debug\net7.0\print  sum,subtraction,multiplication.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\obj\Debug\net7.0\refint\print  sum,subtraction,multiplication.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\obj\Debug\net7.0\print  sum,subtraction,multiplication.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\obj\Debug\net7.0\print  sum,subtraction,multiplication.genruntimeconfig.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\print  sum,subtraction,multiplication\print  sum,subtraction,multiplication\obj\Debug\net7.0\ref\print  sum,subtraction,multiplication.dll

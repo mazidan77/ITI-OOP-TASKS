@@ -1,0 +1,15 @@
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\bin\Debug\net7.0\convert ascii code to character.exe
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\bin\Debug\net7.0\convert ascii code to character.deps.json
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\bin\Debug\net7.0\convert ascii code to character.runtimeconfig.json
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\bin\Debug\net7.0\convert ascii code to character.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\bin\Debug\net7.0\convert ascii code to character.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\obj\Debug\net7.0\convert ascii code to character.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\obj\Debug\net7.0\convert ascii code to character.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\obj\Debug\net7.0\convert ascii code to character.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\obj\Debug\net7.0\convert ascii code to character.AssemblyInfo.cs
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\obj\Debug\net7.0\convert ascii code to character.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\obj\Debug\net7.0\convert ascii code to character.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\obj\Debug\net7.0\refint\convert ascii code to character.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\obj\Debug\net7.0\convert ascii code to character.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\obj\Debug\net7.0\convert ascii code to character.genruntimeconfig.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\convert ascii code to character\convert ascii code to character\obj\Debug\net7.0\ref\convert ascii code to character.dll

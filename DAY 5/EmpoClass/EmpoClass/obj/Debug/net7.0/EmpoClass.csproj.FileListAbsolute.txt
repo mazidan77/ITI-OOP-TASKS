@@ -1,0 +1,12 @@
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\bin\Debug\net7.0\EmpoClass.deps.json
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\bin\Debug\net7.0\EmpoClass.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\bin\Debug\net7.0\EmpoClass.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\obj\Debug\net7.0\EmpoClass.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\obj\Debug\net7.0\EmpoClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\obj\Debug\net7.0\EmpoClass.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\obj\Debug\net7.0\EmpoClass.AssemblyInfo.cs
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\obj\Debug\net7.0\EmpoClass.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\obj\Debug\net7.0\EmpoClass.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\obj\Debug\net7.0\refint\EmpoClass.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\obj\Debug\net7.0\EmpoClass.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c# advanced\projects\EmpoClass\EmpoClass\obj\Debug\net7.0\ref\EmpoClass.dll

@@ -1,0 +1,15 @@
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\obj\Debug\net7.0\all tasks.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\obj\Debug\net7.0\all tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\obj\Debug\net7.0\all tasks.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\obj\Debug\net7.0\all tasks.AssemblyInfo.cs
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\obj\Debug\net7.0\all tasks.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\bin\Debug\net7.0\all tasks.exe
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\bin\Debug\net7.0\all tasks.deps.json
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\bin\Debug\net7.0\all tasks.runtimeconfig.json
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\bin\Debug\net7.0\all tasks.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\bin\Debug\net7.0\all tasks.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\obj\Debug\net7.0\all tasks.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\obj\Debug\net7.0\refint\all tasks.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\obj\Debug\net7.0\all tasks.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\obj\Debug\net7.0\all tasks.genruntimeconfig.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\all tasks\all tasks\all tasks\obj\Debug\net7.0\ref\all tasks.dll

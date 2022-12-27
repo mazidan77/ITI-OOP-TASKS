@@ -1,0 +1,15 @@
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\bin\Debug\net7.0\Multiplication table.exe
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\bin\Debug\net7.0\Multiplication table.deps.json
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\bin\Debug\net7.0\Multiplication table.runtimeconfig.json
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\bin\Debug\net7.0\Multiplication table.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\bin\Debug\net7.0\Multiplication table.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\obj\Debug\net7.0\Multiplication table.csproj.AssemblyReference.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\obj\Debug\net7.0\Multiplication table.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\obj\Debug\net7.0\Multiplication table.AssemblyInfoInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\obj\Debug\net7.0\Multiplication table.AssemblyInfo.cs
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\obj\Debug\net7.0\Multiplication table.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\obj\Debug\net7.0\Multiplication table.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\obj\Debug\net7.0\refint\Multiplication table.dll
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\obj\Debug\net7.0\Multiplication table.pdb
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\obj\Debug\net7.0\Multiplication table.genruntimeconfig.cache
+D:\PROGRAMMING\ITI Q2 MNF .NET\c#\lab2\Multiplication table\Multiplication table\obj\Debug\net7.0\ref\Multiplication table.dll
